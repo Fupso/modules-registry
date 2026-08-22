@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "modules": []
+  "modules": [
+    {
+      "id": "fimi.merger",
+      "name": "Spájač",
+      "version": "2.0.2",
+      "description": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou pre YouTube, TikTok a ďalšie.",
+      "author": "SkyFrame Community",
+      "icon": "🎬",
+      "download_url": "https://github.com/Fupso/skyframe-merger/releases/download/v2.0.2/fimi.merger.zip"
+    }
+  ]
 }
