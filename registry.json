@@ -1,14 +1,32 @@
 {
-  "version": 1,
   "modules": [
     {
       "id": "fimi.merger",
-      "name": "Spájač",
-      "version": "2.0.2",
-      "description": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou pre YouTube, TikTok a ďalšie.",
+      "name": { "sk": "Spájač", "en": "Merger", "de": "Zusammenführer", "ru": "Объединение", "zh": "合并工具" },
       "author": "SkyFrame Community",
-      "icon": "🎬",
-      "download_url": "https://github.com/Fupso/skyframe-merger/releases/download/v2.0.2/fimi.merger.zip"
+      "version": "2.0.2",
+      "description": {
+        "sk": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou.",
+        "en": "Professional video merging with flight detection, music, preview and conversion.",
+        "de": "Professionelles Zusammenführen von Videos mit Flugerkennung, Musik, Vorschau und Konvertierung.",
+        "ru": "Профессиональное объединение видео с определением полётов, музыкой, предпросмотром и конвертацией.",
+        "zh": "专业视频合并，支持飞行检测、音乐、预览和转换。"
+      },
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger.zip"
+    },
+    {
+      "id": "fimi.cutter",
+      "name": { "sk": "Strihač", "en": "Cutter", "de": "Schneider", "ru": "Нарезка", "zh": "剪辑工具" },
+      "author": "SkyFrame Community",
+      "version": "2.1.0",
+      "description": {
+        "sk": "Vystrihni úseky z videa na časovej osi, spoj ich do jedného výstupu s hudbou.",
+        "en": "Cut segments on a visual timeline, merge them into one output with music.",
+        "de": "Schneide Segmente auf einer visuellen Zeitleiste und füge sie mit Musik zusammen.",
+        "ru": "Нарезка фрагментов на визуальной шкале времени и объединение их с музыкой.",
+        "zh": "在可视化时间轴上剪切片段，并合并为带音乐的单个输出。"
+      },
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter.zip"
     }
   ]
 }
