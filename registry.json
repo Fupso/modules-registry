@@ -18,7 +18,7 @@
       "id": "fimi.cutter",
       "name": { "sk": "Strihač", "en": "Cutter", "de": "Schneider", "ru": "Нарезка", "zh": "剪辑工具" },
       "author": "SkyFrame Community",
-      "version": "2.5.0",
+      "version": "2.6.0",
       "description": {
         "sk": "Vystrihni úseky z videa na časovej osi, spoj ich do jedného výstupu s hudbou.",
         "en": "Cut segments on a visual timeline, merge them into one output with music.",
