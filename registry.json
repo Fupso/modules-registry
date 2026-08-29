@@ -29,18 +29,18 @@
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter-2.8.1.zip"
     },
     {
-      "id": "fimi.style-transfer",
+      "id": "skyframe.filters",
       "name": { "sk": "Filtre", "en": "Filters", "de": "Filter", "ru": "Фильтры", "zh": "滤镜" },
       "author": "SkyFrame Community",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": {
-        "sk": "Filtre a farebné štýly pre video — náhľad naživo, vlastné štýly z fotky.",
-        "en": "Video filters and color styles — live preview, custom styles from a photo.",
-        "de": "Videofilter und Farbstile — Live-Vorschau, eigene Stile aus einem Foto.",
-        "ru": "Видеофильтры и цветовые стили — живой предпросмотр, свои стили из фото.",
-        "zh": "视频滤镜和色彩风格——实时预览，可从照片创建自定义风格。"
+        "sk": "Filtre a farebné štýly pre video — náhľad naživo, štýly odvodené z referenčnej fotky.",
+        "en": "Video filters and color styles — live preview, styles derived from a reference photo.",
+        "de": "Videofilter und Farbstile — Live-Vorschau, Stile aus einem Referenzfoto abgeleitet.",
+        "ru": "Видеофильтры и цветовые стили — живой предпросмотр, стили из референсного фото.",
+        "zh": "视频滤镜和色彩风格——实时预览，从参考照片提取风格。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.style-transfer-1.0.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-1.1.0.zip"
     }
   ]
 }
