@@ -4,7 +4,7 @@
       "id": "fimi.merger",
       "name": { "sk": "Spájač", "en": "Merger", "de": "Zusammenführer", "ru": "Объединение", "zh": "合并工具" },
       "author": "SkyFrame Community",
-      "version": "2.2.0",
+      "version": "2.3.0",
       "description": {
         "sk": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou.",
         "en": "Professional video merging with flight detection, music, preview and conversion.",
@@ -12,7 +12,7 @@
         "ru": "Профессиональное объединение видео с определением полётов, музыкой, предпросмотром и конвертацией.",
         "zh": "专业视频合并，支持飞行检测、音乐、预览和转换。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.3.0.zip"
     },
     {
       "id": "fimi.cutter",
@@ -26,7 +26,7 @@
         "ru": "Нарезка фрагментов на визуальной шкале времени и объединение их с музыкой.",
         "zh": "在可视化时间轴上剪切片段，并合并为带音乐的单个输出。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter-2.8.1.zip"
     }
   ]
 }
