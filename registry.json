@@ -4,7 +4,7 @@
       "id": "fimi.merger",
       "name": { "sk": "Spájač", "en": "Merger", "de": "Zusammenführer", "ru": "Объединение", "zh": "合并工具" },
       "author": "SkyFrame Community",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "description": {
         "sk": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou.",
         "en": "Professional video merging with flight detection, music, preview and conversion.",
