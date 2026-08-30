@@ -59,6 +59,26 @@
         "zh": "视频滤镜和色彩风格——实时预览，从参考照片提取风格。"
       },
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-2.2.2.zip"
+    },
+    {
+      "id": "skyframe.portret",
+      "name": {
+        "sk": "Portrét",
+        "en": "Portrait",
+        "de": "Porträt",
+        "ru": "Портрет",
+        "zh": "人像"
+      },
+      "author": "SkyFrame Community",
+      "version": "1.0.0",
+      "description": {
+        "sk": "Portrétové úpravy fotiek — jemnosť pleti, teplota, vyostrenie, vignetácia. Zdieľá fotku s ostatnými modulmi.",
+        "en": "Portrait photo editing — skin smoothing, warmth, sharpening, vignette. Shares the photo with other modules.",
+        "de": "Porträt-Bearbeitung — Hautglättung, Wärme, Schärfe, Vignette. Teilt das Foto mit anderen Modulen.",
+        "ru": "Портретная обработка — сглаживание кожи, теплота, резкость, виньетка. Общее фото с другими модулями.",
+        "zh": "人像照片编辑——磨皮、色温、锐化、暗角。与其他模块共享照片。"
+      },
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.portret-1.0.0.zip"
     }
   ]
 }
