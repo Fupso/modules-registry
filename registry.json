@@ -2,7 +2,13 @@
   "modules": [
     {
       "id": "fimi.merger",
-      "name": { "sk": "Spájač", "en": "Merger", "de": "Zusammenführer", "ru": "Объединение", "zh": "合并工具" },
+      "name": {
+        "sk": "Spájač",
+        "en": "Merger",
+        "de": "Zusammenführer",
+        "ru": "Объединение",
+        "zh": "合并工具"
+      },
       "author": "SkyFrame Community",
       "version": "2.3.1",
       "description": {
@@ -16,7 +22,13 @@
     },
     {
       "id": "fimi.cutter",
-      "name": { "sk": "Strihač", "en": "Cutter", "de": "Schneider", "ru": "Нарезка", "zh": "剪辑工具" },
+      "name": {
+        "sk": "Strihač",
+        "en": "Cutter",
+        "de": "Schneider",
+        "ru": "Нарезка",
+        "zh": "剪辑工具"
+      },
       "author": "SkyFrame Community",
       "version": "2.8.1",
       "description": {
@@ -30,17 +42,23 @@
     },
     {
       "id": "skyframe.filters",
-      "name": { "sk": "Filtre", "en": "Filters", "de": "Filter", "ru": "Фильтры", "zh": "滤镜" },
+      "name": {
+        "sk": "Filtre",
+        "en": "Filters",
+        "de": "Filter",
+        "ru": "Фильтры",
+        "zh": "滤镜"
+      },
       "author": "SkyFrame Community",
-      "version": "1.5.0",
+      "version": "2.0.0",
       "description": {
-        "sk": "Filtre a farebné štýly pre video — náhľad naživo, štýly odvodené z referenčnej fotky.",
-        "en": "Video filters and color styles — live preview, styles derived from a reference photo.",
+        "sk": "Filtre a farebné štýly pre video — náhľad naživo, štýly z fotky, AI maska oblohy.",
+        "en": "Video filters and color styles — live preview, photo styles, AI sky mask.",
         "de": "Videofilter und Farbstile — Live-Vorschau, Stile aus einem Referenzfoto abgeleitet.",
         "ru": "Видеофильтры и цветовые стили — живой предпросмотр, стили из референсного фото.",
         "zh": "视频滤镜和色彩风格——实时预览，从参考照片提取风格。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-1.5.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-2.0.0.zip"
     }
   ]
 }
