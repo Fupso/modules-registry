@@ -50,7 +50,7 @@
         "zh": "滤镜"
       },
       "author": "SkyFrame Community",
-      "version": "2.3.1",
+      "version": "2.3.3",
       "description": {
         "sk": "Filtre a farebné štýly pre video aj fotky — presný náhľad (WYSIWYG), zdieľané úpravy s ostatnými modulmi, AI maska oblohy.",
         "en": "Video filters and color styles — live preview, photo styles, AI sky mask.",
@@ -58,7 +58,7 @@
         "ru": "Видеофильтры и цветовые стили — живой предпросмотр, стили из референсного фото.",
         "zh": "视频滤镜和色彩风格——实时预览，从参考照片提取风格。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-2.3.1.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-2.3.3.zip"
     },
     {
       "id": "skyframe.portret",
