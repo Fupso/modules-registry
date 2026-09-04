@@ -90,7 +90,7 @@
         "zh": "视频风格"
       },
       "author": "SkyFrame Community",
-      "version": "2.3.0",
+      "version": "2.3.1",
       "description": {
         "sk": "AI štýlizácia videa a fotiek — nástroj SkyFrame Editora. Anime, kreslený film, umelecké štýly; štýl je prvý krok, potom filtre. 14 modelov, každý sa stiahne až pri prvom použití.",
         "en": "AI video and photo stylization — a SkyFrame Editor tool. Anime, cartoon, artistic styles; style is the first step, then filters. 14 models, each downloads on first use.",
@@ -98,7 +98,7 @@
         "ru": "ИИ-стилизация видео и фото — инструмент редактора SkyFrame. Аниме, мультфильм, художественные стили; стиль — первый шаг, затем фильтры. 14 моделей, каждая скачивается при первом использовании.",
         "zh": "AI 视频和照片风格化——SkyFrame 编辑器工具。动漫、卡通、艺术风格；风格为第一步，然后滤镜。14 个模型，首次使用时才下载。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.1.zip"
     }
   ]
 }
