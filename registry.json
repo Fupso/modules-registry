@@ -79,6 +79,26 @@
         "zh": "人像调整——磨皮、色温、锐化。SkyFrame 编辑器工具：与其他工具合成为单一输出。"
       },
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.portret-2.0.0.zip"
+    },
+    {
+      "id": "skyframe.vstyles",
+      "name": {
+        "sk": "Štýly videa",
+        "en": "Video Styles",
+        "de": "Videostile",
+        "ru": "Стили видео",
+        "zh": "视频风格"
+      },
+      "author": "SkyFrame Community",
+      "version": "1.0.0",
+      "description": {
+        "sk": "AI štýlizácia videa a fotiek — anime, kreslený film, umelecké štýly. 14 modelov, každý sa stiahne až pri prvom použití.",
+        "en": "AI video and photo stylization — anime, cartoon, artistic styles. 14 models, each downloads on first use.",
+        "de": "KI-Stilisierung für Video und Foto — Anime, Zeichentrick, Kunststile. 14 Modelle, jedes wird erst bei Bedarf heruntergeladen.",
+        "ru": "ИИ-стилизация видео и фото — аниме, мультфильм, художественные стили. 14 моделей, каждая скачивается при первом использовании.",
+        "zh": "AI 视频和照片风格化——动漫、卡通、艺术风格。14 个模型，首次使用时才下载。"
+      },
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-1.0.0.zip"
     }
   ]
 }
