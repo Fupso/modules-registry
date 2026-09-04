@@ -10,9 +10,9 @@
         "zh": "合并工具"
       },
       "author": "SkyFrame Community",
-      "version": "2.4.0",
-      "description": "Profesionálne spájanie videí s detekciou letov, prechodmi, hudbou, náhľadom a konverziou pre YouTube, TikTok a ďalšie.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.4.0.zip"
+      "version": "2.3.1",
+      "description": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou pre YouTube, TikTok a ďalšie.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.3.1.zip"
     },
     {
       "id": "fimi.cutter",
