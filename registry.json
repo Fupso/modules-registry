@@ -10,15 +10,9 @@
         "zh": "合并工具"
       },
       "author": "SkyFrame Community",
-      "version": "2.3.1",
-      "description": {
-        "sk": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou.",
-        "en": "Professional video merging with flight detection, music, preview and conversion.",
-        "de": "Professionelles Zusammenführen von Videos mit Flugerkennung, Musik, Vorschau und Konvertierung.",
-        "ru": "Профессиональное объединение видео с определением полётов, музыкой, предпросмотром и конвертацией.",
-        "zh": "专业视频合并，支持飞行检测、音乐、预览和转换。"
-      },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.3.1.zip"
+      "version": "2.4.0",
+      "description": "Profesionálne spájanie videí s detekciou letov, prechodmi, hudbou, náhľadom a konverziou pre YouTube, TikTok a ďalšie.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.4.0.zip"
     },
     {
       "id": "fimi.cutter",
