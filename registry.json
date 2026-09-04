@@ -50,7 +50,7 @@
         "zh": "滤镜"
       },
       "author": "SkyFrame Community",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "description": {
         "sk": "Farebné štýly a AI maska oblohy — nástroj SkyFrame Editora. Kombinuje sa s ostatnými nástrojmi do jedného výstupu (WYSIWYG).",
         "en": "Color styles and AI sky mask — a SkyFrame Editor tool. Combines with other tools into one output (WYSIWYG).",
@@ -58,7 +58,7 @@
         "ru": "Цветовые стили и ИИ-маска неба — инструмент редактора SkyFrame. Комбинируется с другими инструментами в один результат (WYSIWYG).",
         "zh": "色彩风格与 AI 天空蒙版——SkyFrame 编辑器工具。与其他工具合成为单一输出（所见即所得）。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-3.0.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-3.1.0.zip"
     },
     {
       "id": "skyframe.portret",
