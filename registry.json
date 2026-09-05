@@ -12,7 +12,8 @@
       "author": "SkyFrame Community",
       "version": "2.3.1",
       "description": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou pre YouTube, TikTok a ďalšie.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.3.1.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.3.1.zip",
+      "icon": "🎬"
     },
     {
       "id": "fimi.cutter",
@@ -32,7 +33,8 @@
         "ru": "Нарезка фрагментов на визуальной шкале времени и объединение их с музыкой.",
         "zh": "在可视化时间轴上剪切片段，并合并为带音乐的单个输出。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter-2.8.1.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter-2.8.1.zip",
+      "icon": "✂️"
     },
     {
       "id": "skyframe.filters",
@@ -46,7 +48,8 @@
       "author": "SkyFrame Community",
       "version": "3.4.0",
       "description": "Farebné štýly, krivky, farebné kolieska a AI maska oblohy — nástroj SkyFrame Editora. Kombinuje sa s ostatnými nástrojmi do jedného výstupu (WYSIWYG).",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-3.4.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-3.4.0.zip",
+      "icon": "🎨"
     },
     {
       "id": "skyframe.portret",
@@ -66,7 +69,8 @@
         "ru": "Портретные коррекции — сглаживание кожи, теплота, резкость. Инструмент редактора SkyFrame: комбинируется с другими в один результат.",
         "zh": "人像调整——磨皮、色温、锐化。SkyFrame 编辑器工具：与其他工具合成为单一输出。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.portret-2.0.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.portret-2.0.0.zip",
+      "icon": "🧑"
     },
     {
       "id": "skyframe.vstyles",
@@ -86,7 +90,8 @@
         "ru": "ИИ-стилизация видео и фото — инструмент редактора SkyFrame. Аниме, мультфильм, художественные стили; стиль — первый шаг, затем фильтры. 14 моделей, каждая скачивается при первом использовании.",
         "zh": "AI 视频和照片风格化——SkyFrame 编辑器工具。动漫、卡通、艺术风格；风格为第一步，然后滤镜。14 个模型，首次使用时才下载。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.1.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.1.zip",
+      "icon": "🎭"
     },
     {
       "id": "skyframe.converter",
@@ -100,7 +105,8 @@
       "author": "SkyFrame Community",
       "version": "1.0.0",
       "description": "HandBrake-style konverzia videí — dávková fronta, rozlíšenie, kvalita (CRF), fps, zvuk a formát.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.converter-1.0.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.converter-1.0.0.zip",
+      "icon": "🔄"
     },
     {
       "id": "skyframe.subtitles",
@@ -114,7 +120,8 @@
       "author": "SkyFrame Community",
       "version": "1.2.0",
       "description": "AI prepis reči do titulkov (Whisper, offline), editor segmentov a vypálenie titulkov do videa.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-1.2.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-1.2.0.zip",
+      "icon": "💬"
     },
     {
       "id": "skyframe.frames",
@@ -128,7 +135,8 @@
       "author": "SkyFrame Community",
       "version": "1.2.0",
       "description": "Extrakcia snímok z videa — core prehrávač s presnou pozíciou, náhľad všetkých snímok danej sekundy a okamžitá úprava v Editore.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-1.2.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-1.2.0.zip",
+      "icon": "🎞️"
     }
   ]
 }
