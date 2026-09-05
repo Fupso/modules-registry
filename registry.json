@@ -112,9 +112,9 @@
         "zh": "字幕"
       },
       "author": "SkyFrame Community",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "description": "AI prepis reči do titulkov (Whisper, offline), editor segmentov a vypálenie titulkov do videa.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-1.1.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-1.2.0.zip"
     },
     {
       "id": "skyframe.frames",
