@@ -115,6 +115,20 @@
       "version": "1.0.0",
       "description": "AI prepis reči do titulkov (Whisper, offline), editor segmentov a vypálenie titulkov do videa.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-1.0.0.zip"
+    },
+    {
+      "id": "skyframe.frames",
+      "name": {
+        "sk": "Extraktor",
+        "en": "Frame Extractor",
+        "de": "Frame-Extraktor",
+        "ru": "Экстрактор кадров",
+        "zh": "帧提取器"
+      },
+      "author": "SkyFrame Community",
+      "version": "1.0.0",
+      "description": "Extrakcia snímok z videa — zadaj čas, vyber snímku z tej sekundy a uprav ju v Editore (WYSIWYG).",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-1.0.0.zip"
     }
   ]
 }
