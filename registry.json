@@ -87,6 +87,20 @@
         "zh": "AI 视频和照片风格化——SkyFrame 编辑器工具。动漫、卡通、艺术风格；风格为第一步，然后滤镜。14 个模型，首次使用时才下载。"
       },
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.1.zip"
+    },
+    {
+      "id": "skyframe.converter",
+      "name": {
+        "sk": "Konvertor",
+        "en": "Converter",
+        "de": "Konverter",
+        "ru": "Конвертер",
+        "zh": "转换器"
+      },
+      "author": "SkyFrame Community",
+      "version": "1.0.0",
+      "description": "HandBrake-style konverzia videí — dávková fronta, rozlíšenie, kvalita (CRF), fps, zvuk a formát.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.converter-1.0.0.zip"
     }
   ]
 }
