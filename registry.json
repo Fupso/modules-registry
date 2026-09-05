@@ -126,9 +126,9 @@
         "zh": "帧提取器"
       },
       "author": "SkyFrame Community",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Extrakcia snímok z videa — core prehrávač s presnou pozíciou, náhľad všetkých snímok danej sekundy a okamžitá úprava v Editore.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-1.1.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-1.1.1.zip"
     }
   ]
 }
