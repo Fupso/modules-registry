@@ -152,6 +152,21 @@
       "icon": "⏩",
       "description": "Zrýchlené video (timelapse/hyperlapse) — z dlhého letu krátke dynamické video.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.timelapse-1.2.0.zip"
+    },
+    {
+      "id": "skyframe.audiotools",
+      "name": {
+        "sk": "Audio nástroje",
+        "en": "Audio Tools",
+        "de": "Audio-Werkzeuge",
+        "ru": "Аудио инструменты",
+        "zh": "音频工具"
+      },
+      "author": "SkyFrame Community",
+      "version": "1.0.0",
+      "icon": "🔊",
+      "description": "Hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha, hudobný podmaz a extrakcia audia do MP3.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.audiotools-1.0.0.zip"
     }
   ]
 }
