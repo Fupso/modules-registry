@@ -112,9 +112,9 @@
         "zh": "帧提取器"
       },
       "author": "SkyFrame Community",
-      "version": "2.0.0",
-      "description": "Extrakcia snímky priamo v Editore — úchyt na časovej osi so živým náhľadom, formát JPG/PNG, WYSIWYG (aj s filtrami a strihom).",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-2.0.0.zip",
+      "version": "2.1.0",
+      "description": "Extrakcia snímky priamo v Editore — úchyt na časovej osi, prehliadač všetkých snímok danej sekundy pod časovým panelom, uloženie presnej snímky (WYSIWYG).",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-2.1.0.zip",
       "icon": "🎞️"
     },
     {
