@@ -140,6 +140,21 @@
       "icon": "🔊",
       "description": "Zvukové úpravy v Editore — hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha a hudobný podmaz (mix/náhrada, auto-loop). Všetko v jednom exporte.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.audiotools-2.3.0.zip"
+    },
+    {
+      "id": "skyframe.crop",
+      "name": {
+        "sk": "Orezanie",
+        "en": "Crop & Rotate",
+        "de": "Zuschnitt & Drehung",
+        "ru": "Кадрирование",
+        "zh": "裁剪与旋转"
+      },
+      "author": "SkyFrame Community",
+      "version": "1.0.0",
+      "description": "Rotácia (narovnanie horizontu) a výrez obrazu — zoom, posun, pomer strán. Nástroj Editora.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.crop-1.0.0.zip",
+      "icon": "🔲"
     }
   ]
 }
