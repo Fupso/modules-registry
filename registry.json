@@ -118,9 +118,9 @@
         "zh": "字幕"
       },
       "author": "SkyFrame Community",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl titulkov a vypálenie v jednom exporte.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.0.0.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.1.0.zip",
       "icon": "💬"
     },
     {
@@ -148,10 +148,10 @@
         "zh": "延时摄影"
       },
       "author": "SkyFrame Community",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "icon": "⏩",
       "description": "Časozber priamo v Editore — zrýchlenie 1–240× ako krok v zásobníku úprav, v jednom exporte spolu s ostatnými nástrojmi.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.timelapse-2.0.0.zip"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.timelapse-2.1.0.zip"
     },
     {
       "id": "skyframe.audiotools",
