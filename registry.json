@@ -40,9 +40,9 @@
         "zh": "滤镜"
       },
       "author": "SkyFrame Community",
-      "version": "3.4.0",
-      "description": "Farebné štýly, krivky, farebné kolieska a AI maska oblohy — nástroj SkyFrame Editora. Kombinuje sa s ostatnými nástrojmi do jedného výstupu (WYSIWYG).",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-3.4.0.zip",
+      "version": "4.0.0",
+      "description": "Farebné štýly, krivky, farebné kolieska a AI maska oblohy — deklaratívny nástroj Editora. Hodnoty sa ukladajú v session (WYSIWYG).",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-4.0.0.zip",
       "icon": "🎨"
     },
     {
@@ -55,15 +55,9 @@
         "zh": "人像"
       },
       "author": "SkyFrame Community",
-      "version": "2.0.0",
-      "description": {
-        "sk": "Portrétové úpravy — jemnosť pleti, teplota, vyostrenie. Nástroj SkyFrame Editora: kombinuje sa s ostatnými nástrojmi do jedného výstupu.",
-        "en": "Portrait adjustments — skin smoothing, warmth, sharpening. A SkyFrame Editor tool: combines with other tools into one output.",
-        "de": "Porträt-Anpassungen — Hautglättung, Wärme, Schärfe. Ein Werkzeug des SkyFrame Editors: kombiniert mit anderen Werkzeugen zu einer Ausgabe.",
-        "ru": "Портретные коррекции — сглаживание кожи, теплота, резкость. Инструмент редактора SkyFrame: комбинируется с другими в один результат.",
-        "zh": "人像调整——磨皮、色温、锐化。SkyFrame 编辑器工具：与其他工具合成为单一输出。"
-      },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.portret-2.0.0.zip",
+      "version": "3.0.0",
+      "description": "Portrétové úpravy — jemnosť pleti, teplota, vyostrenie. Deklaratívny nástroj Editora, hodnoty v session (WYSIWYG).",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.portret-3.0.0.zip",
       "icon": "🧑"
     },
     {
