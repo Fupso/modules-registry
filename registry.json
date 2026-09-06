@@ -151,9 +151,9 @@
         "zh": "视频稳定"
       },
       "author": "SkyFrame Community",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Vyhladí trasúce sa zábery (ruka, vietor, chôdza) — nastaviteľný rozsah kompenzácie a vyplnenie hrán, WYSIWYG náhľad priamo v Editore.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.stabil-1.0.0.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.stabil-1.0.1.zip",
       "icon": "🎥"
     }
   ]
