@@ -166,9 +166,9 @@
         "zh": "速度渐变"
       },
       "author": "SkyFrame Community",
-      "version": "1.0.0",
-      "description": "Spomalenie alebo zrýchlenie vybratej sekcie videa (speed ramp) — zvuk ostáva v synchronizácii, zvyšok videa beží normálne.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.speedramp-1.0.0.zip",
+      "version": "1.1.0",
+      "description": "Spomalenie alebo zrýchlenie sekcie videa — sekcia sa ťahá úchytmi na časovej osi (ako strih), rýchlosť jazdcom. Zvuk ostáva v synchronizácii.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.speedramp-1.1.0.zip",
       "icon": "⏩"
     }
   ]
