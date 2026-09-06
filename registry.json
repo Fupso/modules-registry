@@ -148,10 +148,10 @@
         "zh": "延时摄影"
       },
       "author": "SkyFrame Community",
-      "version": "1.2.0",
+      "version": "2.0.0",
       "icon": "⏩",
-      "description": "Zrýchlené video (timelapse/hyperlapse) — z dlhého letu krátke dynamické video.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.timelapse-1.2.0.zip"
+      "description": "Časozber priamo v Editore — zrýchlenie 1–240× ako krok v zásobníku úprav, v jednom exporte spolu s ostatnými nástrojmi.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.timelapse-2.0.0.zip"
     },
     {
       "id": "skyframe.audiotools",
