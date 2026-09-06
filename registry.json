@@ -25,15 +25,9 @@
         "zh": "剪辑工具"
       },
       "author": "SkyFrame Community",
-      "version": "2.8.1",
-      "description": {
-        "sk": "Vystrihni úseky z videa na časovej osi, spoj ich do jedného výstupu s hudbou.",
-        "en": "Cut segments on a visual timeline, merge them into one output with music.",
-        "de": "Schneide Segmente auf einer visuellen Zeitleiste und füge sie mit Musik zusammen.",
-        "ru": "Нарезка фрагментов на визуальной шкале времени и объединение их с музыкой.",
-        "zh": "在可视化时间轴上剪切片段，并合并为带音乐的单个输出。"
-      },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter-2.8.1.zip",
+      "version": "3.0.0",
+      "description": "Strih videa priamo v Editore — úchyty začiatku a konca na časovej osi, v jednom exporte s filtrami a zvukom.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter-3.0.0.zip",
       "icon": "✂️"
     },
     {
