@@ -155,6 +155,21 @@
       "description": "Vyhladí trasúce sa zábery (ruka, vietor, chôdza) — nastaviteľný rozsah kompenzácie a vyplnenie hrán, WYSIWYG náhľad priamo v Editore.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.stabil-1.0.1.zip",
       "icon": "🎥"
+    },
+    {
+      "id": "skyframe.speedramp",
+      "name": {
+        "sk": "Rampa rýchlosti",
+        "en": "Speed Ramp",
+        "de": "Geschwindigkeitsrampe",
+        "ru": "Рампа скорости",
+        "zh": "速度渐变"
+      },
+      "author": "SkyFrame Community",
+      "version": "1.0.0",
+      "description": "Spomalenie alebo zrýchlenie vybratej sekcie videa (speed ramp) — zvuk ostáva v synchronizácii, zvyšok videa beží normálne.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.speedramp-1.0.0.zip",
+      "icon": "⏩"
     }
   ]
 }
