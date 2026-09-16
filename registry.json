@@ -91,10 +91,11 @@
         "zh": "字幕"
       },
       "author": "SkyFrame Community",
-      "version": "2.6.0",
-      "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl titulkov a vypálenie v jednom exporte.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.6.0.zip",
-      "icon": "💬"
+      "version": "2.7.0",
+      "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl, preklad do viacerých jazykov a export SRT pre každý jazyk alebo MKV s prepínateľnými titulkovými stopami.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.7.0.zip",
+      "icon": "💬",
+      "min_core_version": "3.9.2"
     },
     {
       "id": "skyframe.frames",
