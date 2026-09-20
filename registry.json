@@ -40,10 +40,11 @@
         "zh": "滤镜"
       },
       "author": "SkyFrame Community",
-      "version": "4.0.2",
+      "version": "4.1.0",
       "description": "Farebné štýly, krivky, farebné kolieska a AI maska oblohy — deklaratívny nástroj Editora. Hodnoty sa ukladajú v session (WYSIWYG).",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-4.0.2.zip",
-      "icon": "🎨"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-4.1.0.zip",
+      "icon": "🎨",
+      "min_core_version": "3.10.3"
     },
     {
       "id": "skyframe.portret",
