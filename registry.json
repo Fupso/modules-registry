@@ -79,7 +79,7 @@
         "ru": "ИИ-стилизация видео и фото — инструмент редактора SkyFrame. Аниме, мультфильм, художественные стили; стиль — первый шаг, затем фильтры. 14 моделей, каждая скачивается при первом использовании.",
         "zh": "AI 视频和照片风格化——SkyFrame 编辑器工具。动漫、卡通、艺术风格；风格为第一步，然后滤镜。14 个模型，首次使用时才下载。"
       },
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.4.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.5.zip",
       "icon": "🎭"
     },
     {
@@ -93,8 +93,8 @@
       },
       "author": "SkyFrame Community",
       "version": "2.9.0",
-      "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl, preklad do viacerých jazykov a export SRT pre každý jazyk alebo MKV s prepínateľnými titulkovými stopami.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.8.2.zip",
+      "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl, preklad, animované titulky po slovách (karaoke), export SRT a MKV so stopami.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.0.zip",
       "icon": "💬",
       "min_core_version": "3.9.2"
     },
