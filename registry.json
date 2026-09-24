@@ -146,11 +146,11 @@
         "zh": "音频"
       },
       "author": "SkyFrame Community",
-      "version": "2.4.0",
+      "version": "2.5.0",
       "icon": "🔊",
-      "description": "Zvukové úpravy v Editore — hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha a hudobný podmaz (mix/náhrada, auto-loop). Všetko v jednom exporte.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.audiotools-2.4.0.zip",
-      "sha256": "5449527321bcaf8b9bb76a835c4d726f4d1590ac9bf1de4d10623feba8d09d52"
+      "description": "Zvukové úpravy v Editore — AI čistenie zvuku (RNNoise hlas / FFT šum), hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha a basy/výšky, echo/ozvena/chorus, hudobný podmaz (mix/náhrada, auto-loop). Všetko v jednom exporte.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.audiotools-2.5.0.zip",
+      "sha256": "f2c743e8c7733dd86595cd9d11fec06a7cff70066699dfed7e8f2e4ca4771148"
     },
     {
       "id": "skyframe.stabil",
