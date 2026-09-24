@@ -13,8 +13,7 @@
       "version": "2.3.4",
       "description": "Profesionálne spájanie videí s detekciou letov, hudbou, náhľadom a konverziou pre YouTube, TikTok a ďalšie.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.merger-2.3.4.zip",
-      "icon": "🎬",
-      "sha256": "4584f44bbfd02dd9d11eaa58a0d6eb2dd6f494974772c7de0fb28437de7561a3"
+      "icon": "🎬"
     },
     {
       "id": "fimi.cutter",
@@ -29,8 +28,7 @@
       "version": "3.0.0",
       "description": "Strih videa priamo v Editore — úchyty začiatku a konca na časovej osi, v jednom exporte s filtrami a zvukom.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/fimi.cutter-3.0.0.zip",
-      "icon": "✂️",
-      "sha256": "358fdc0a391dd506069a70fc6091f1de648f1c767073f4346705f994242c6d80"
+      "icon": "✂️"
     },
     {
       "id": "skyframe.filters",
@@ -43,11 +41,11 @@
       },
       "author": "SkyFrame Community",
       "version": "4.2.0",
-      "description": "Filtre a farebné ladenie v Editore — vstavané a vlastné štýly, krivky, farebné kolieska, teplota/tónovanie, vibrancia, HSL podľa farieb, import LUT (.cube), len-obloha s AI maskou.",
+      "description": "Farebné štýly, krivky, farebné kolieska a AI maska oblohy — deklaratívny nástroj Editora. Hodnoty sa ukladajú v session (WYSIWYG).",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-4.2.0.zip",
       "icon": "🎨",
       "min_core_version": "3.10.3",
-      "sha256": "b07e47e60c302dadd151718f88b712da3d599015b337fe01a7f380533035f05a"
+      "sha256": "a5b63208d77674763188681f43bfb05a89cf735398d062a500a6f46f19456eac"
     },
     {
       "id": "skyframe.portret",
@@ -62,8 +60,7 @@
       "version": "3.0.0",
       "description": "Portrétové úpravy — jemnosť pleti, teplota, vyostrenie. Deklaratívny nástroj Editora, hodnoty v session (WYSIWYG).",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.portret-3.0.0.zip",
-      "icon": "🧑",
-      "sha256": "7ddea80e6c7ca4691af4c49e138293b0cb52bf91449cd496adc1227fc4e0df21"
+      "icon": "🧑"
     },
     {
       "id": "skyframe.vstyles",
@@ -84,8 +81,7 @@
         "zh": "AI 视频和照片风格化——SkyFrame 编辑器工具。动漫、卡通、艺术风格；风格为第一步，然后滤镜。14 个模型，首次使用时才下载。"
       },
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.vstyles-2.3.6.zip",
-      "icon": "🎭",
-      "sha256": "1d03b5792748a9ceb5cf13e95915d877e6dc42a2d56fc05c4c3710b1a8420003"
+      "icon": "🎭"
     },
     {
       "id": "skyframe.subtitles",
@@ -101,8 +97,7 @@
       "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl, preklad, animované titulky po slovách (karaoke), export SRT a MKV so stopami.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.1.zip",
       "icon": "💬",
-      "min_core_version": "3.9.2",
-      "sha256": "90f5d9d22bd21e6c13d851dbccedc81bfa7c4b941d7590c63113b83c5913c689"
+      "min_core_version": "3.9.2"
     },
     {
       "id": "skyframe.frames",
@@ -117,8 +112,7 @@
       "version": "2.1.0",
       "description": "Extrakcia snímky priamo v Editore — úchyt na časovej osi, prehliadač všetkých snímok danej sekundy pod časovým panelom, uloženie presnej snímky (WYSIWYG).",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.frames-2.1.0.zip",
-      "icon": "🎞️",
-      "sha256": "8746ddcd964675bcfd705e11918edf732a4e5871e90da0867d634813c8f9c901"
+      "icon": "🎞️"
     },
     {
       "id": "skyframe.timelapse",
@@ -133,8 +127,7 @@
       "version": "2.1.1",
       "icon": "⏩",
       "description": "Časozber priamo v Editore — zrýchlenie 1–240× ako krok v zásobníku úprav, v jednom exporte spolu s ostatnými nástrojmi.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.timelapse-2.1.1.zip",
-      "sha256": "ecf520caba9729ba7d6386162238603cf4a86083c69ce705648044489fe4281b"
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.timelapse-2.1.1.zip"
     },
     {
       "id": "skyframe.audiotools",
@@ -146,11 +139,10 @@
         "zh": "音频"
       },
       "author": "SkyFrame Community",
-      "version": "2.5.0",
+      "version": "2.4.0",
       "icon": "🔊",
-      "description": "Zvukové úpravy v Editore — AI čistenie zvuku (RNNoise hlas / FFT šum), hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha a basy/výšky, echo/ozvena/chorus, hudobný podmaz (mix/náhrada, auto-loop). Všetko v jednom exporte.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.audiotools-2.5.0.zip",
-      "sha256": "f2c743e8c7733dd86595cd9d11fec06a7cff70066699dfed7e8f2e4ca4771148"
+      "description": "Zvukové úpravy v Editore — hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha a hudobný podmaz (mix/náhrada, auto-loop). Všetko v jednom exporte.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.audiotools-2.4.0.zip"
     },
     {
       "id": "skyframe.stabil",
@@ -165,8 +157,7 @@
       "version": "1.1.0",
       "description": "Vyhladí trasúce sa zábery (ruka, vietor, chôdza) — nastaviteľný rozsah kompenzácie a vyplnenie hrán, WYSIWYG náhľad priamo v Editore.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.stabil-1.1.0.zip",
-      "icon": "🎥",
-      "sha256": "2a6df30e74005877ce99182a91a77edfdbda33e4f4d654614bd711cccc7049aa"
+      "icon": "🎥"
     }
   ]
 }
