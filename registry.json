@@ -47,7 +47,7 @@
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.filters-4.2.0.zip",
       "icon": "🎨",
       "min_core_version": "3.10.3",
-      "sha256": "60790e1a693c3b843a0c626a94828550d861e4e3f95e4d7cc95e6b7cf21f62bf"
+      "sha256": "3ec3e3f5f7b215c989a164be4d79b0170acf835ef158ac9168215881743b41c8"
     },
     {
       "id": "skyframe.portret",
