@@ -93,12 +93,12 @@
         "zh": "字幕"
       },
       "author": "SkyFrame Community",
-      "version": "2.9.2",
+      "version": "2.9.3",
       "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl, preklad, animované titulky po slovách (karaoke), export SRT a MKV so stopami.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.2.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.3.zip",
       "icon": "💬",
       "min_core_version": "3.9.2",
-      "sha256": "a2abcbd75ea61096cf64a3619af22566f9feacd6bd2ee51fd5069914001e67f7"
+      "sha256": "a9fc34b5f9ba85059cf38e7156d8939bc28d04250f0f6b0701754023a40560a1"
     },
     {
       "id": "skyframe.frames",
