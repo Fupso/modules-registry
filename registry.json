@@ -93,11 +93,12 @@
         "zh": "字幕"
       },
       "author": "SkyFrame Community",
-      "version": "2.9.1",
+      "version": "2.9.2",
       "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl, preklad, animované titulky po slovách (karaoke), export SRT a MKV so stopami.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.1.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.2.zip",
       "icon": "💬",
-      "min_core_version": "3.9.2"
+      "min_core_version": "3.9.2",
+      "sha256": "a2abcbd75ea61096cf64a3619af22566f9feacd6bd2ee51fd5069914001e67f7"
     },
     {
       "id": "skyframe.frames",
@@ -139,11 +140,11 @@
         "zh": "音频"
       },
       "author": "SkyFrame Community",
-      "version": "2.6.1",
+      "version": "2.6.0",
       "icon": "🔊",
-      "description": "Zvukové úpravy v Editore — AI čistenie zvuku (RNNoise hlas / FFT šum), hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha, echo/ozvena/chorus, hudobný podmaz (mix/náhrada, voľba smyčky). Ekvalizér (bas/stred/výšky) je v paneli Zvuk editora. Všetko v jednom exporte.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.audiotools-2.6.1.zip",
-      "sha256": "4ad9b85468d9e340f41f97f7535b2bb65a9e1e64e6ebe3618a0a1fd8640588b1"
+      "description": "Zvukové úpravy v Editore — AI čistenie zvuku (RNNoise hlas / FFT šum), hlasitosť, normalizácia (EBU R128), fade in/out, odstránenie ticha a basy/výšky, echo/ozvena/chorus, hudobný podmaz (mix/náhrada, voľba smyčky). Všetko v jednom exporte.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/audiotools-2.6.0.zip",
+      "sha256": "ceec853e8ff2b135a59a8c058670dc29dd2dfbfc40f28f8e281ec985809f4315"
     },
     {
       "id": "skyframe.stabil",
