@@ -40,12 +40,12 @@
         "zh": "滤镜"
       },
       "author": "SkyFrame Community",
-      "version": "4.4.7",
+      "version": "4.4.8",
       "description": "Farebné štýly, krivky, farebné kolieska a AI maska oblohy — deklaratívny nástroj Editora. Hodnoty sa ukladajú v session (WYSIWYG).",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/filters-4.4.7.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/filters-4.4.8.zip",
       "icon": "🎨",
       "min_core_version": "3.10.3",
-      "sha256": "defc33b678296eb86ea0c45131bf1c82274bc2d5f90e7eb5df3071195f3d4acd"
+      "sha256": "76299619f92bb5952b1cfab9d032aaf204503b9932dd27aae52670134a51a846"
     },
     {
       "id": "skyframe.portret",
@@ -93,12 +93,12 @@
         "zh": "字幕"
       },
       "author": "SkyFrame Community",
-      "version": "2.9.3",
+      "version": "2.9.4",
       "description": "AI prepis reči do titulkov (Whisper, offline) priamo v Editore — editor segmentov, štýl, preklad, animované titulky po slovách (karaoke), export SRT a MKV so stopami.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.3.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.subtitles-2.9.4.zip",
       "icon": "💬",
       "min_core_version": "3.9.2",
-      "sha256": "a9fc34b5f9ba85059cf38e7156d8939bc28d04250f0f6b0701754023a40560a1"
+      "sha256": "e9517a65088847904348877850e6c8a5cdf4666d898aba5b2092e13ecd794b5b"
     },
     {
       "id": "skyframe.frames",
