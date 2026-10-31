@@ -174,7 +174,7 @@
       "author": "Rod Studio",
       "version": "1.1.0",
       "description": "Automatický zostrih reels/shorts z dlhého záberu alebo viacerých klipov: spojenie, výber najlepších momentov, AI obrazový preset, 9:16/1:1 a export pre TikTok, Instagram a YouTube Shorts.",
-      "download_url": "https://github.com/Fupso/modules-registry/releases/download/modules/rod.reels-1.1.0.zip",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/rod.reels-1.1.0.zip",
       "icon": "📱",
       "sha256": "189decad11bf52f3c4a1803fc489b6ed849974faaa88ad3e67ca4d4006601be5",
       "min_core_version": "3.43.0"
