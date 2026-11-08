@@ -161,6 +161,22 @@
       "description": "Vyhladí trasúce sa zábery (ruka, vietor, chôdza) — nastaviteľný rozsah kompenzácie a vyplnenie hrán, WYSIWYG náhľad priamo v Editore.",
       "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/skyframe.stabil-1.1.0.zip",
       "icon": "🎥"
+    },
+    {
+      "id": "rod.reels",
+      "name": {
+        "sk": "Reels",
+        "en": "Reels",
+        "de": "Reels",
+        "ru": "Reels",
+        "zh": "Reels"
+      },
+      "author": "Rod Studio",
+      "version": "3.0.0",
+      "description": "Zostrih priamo v Editore: I/O úseky na pozícii prehrávača, prechody cez čiernu/bielu, profesionálne presety aj automatický look, hudba. Náhľad Editora = export.",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/rod.reels-3.0.0.zip",
+      "sha256": "19589d683b6410f9873e7de9a24bc60889ac1e92c507e0044b7e6fd7a6f4a884",
+      "icon": "🎬"
     }
   ]
 }
