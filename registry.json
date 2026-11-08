@@ -172,10 +172,10 @@
         "zh": "Reels"
       },
       "author": "Rod Studio",
-      "version": "3.0.1",
+      "version": "3.0.2",
       "description": "Zostrih priamo v Editore: I/O úseky na pozícii prehrávača, prechody cez čiernu/bielu, profesionálne presety aj automatický look, hudba. Náhľad Editora = export.",
-      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/rod.reels-3.0.1.zip",
-      "sha256": "cdd55caff9f938e92d8178b89403d0245492dc8aa8bd27a9d33002d1413f00ba",
+      "download_url": "https://raw.githubusercontent.com/Fupso/skyframe-modules/main/rod.reels-3.0.2.zip",
+      "sha256": "1f0aadc10b91f14d0f91e7cbac214a04c88736014194e23eb162f388b8769af2",
       "icon": "🎬"
     }
   ]
